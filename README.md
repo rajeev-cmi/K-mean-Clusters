@@ -10,7 +10,7 @@ H/W & S/W Specifications ::
 
 
 Source Code ::	K-means.py
-
+Data Set    ::  http://www.cmi.ac.in/~madhavan/courses/datamining13-aug/assignment2/index.php
 
 Instructions to run ::
 
